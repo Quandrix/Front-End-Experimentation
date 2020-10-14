@@ -1,9 +1,10 @@
 body{
-    background-color: slategrey;
+    background-color: rgb(80, 79, 79);
+    color: white;
 }   
 
 header{
-    background: #024652;
+    background: #04aa94;
     text-align: center;
     height: 270px;
     padding: 20px 0px 0px 10px
@@ -21,7 +22,7 @@ h1, h2{
 header img{
     border-radius: 100px;
     width: 160px;
-    border: 15px solid seashell;  
+    border: 15px solid seashell; 
 }
 
 body {
